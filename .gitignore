@@ -1,0 +1,26 @@
+# Diretório de executáveis temporários emulados
+fakes/
+
+# Arquivos de Build e Compilação
+*.pdb
+*.obj
+*.exe
+!AutoMissaoDiscord.exe
+bin/
+obj/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# IDEs e Editores
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Arquivos internos / planos de desenvolvimento
+.plano
+*.scratch
